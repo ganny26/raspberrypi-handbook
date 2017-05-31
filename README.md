@@ -12,5 +12,5 @@ Ubuntu Core on raspberry pi
 
 How to convert raspberry pi ubuntu mate as server
    - Flash pi with [UbuntuMate](https://ubuntu-mate.org/raspberry-pi/)
-   - To convert as server [openSSH](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)) using following instructions
+   - To convert as server [openSSH](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring) using following instructions
    - Open in putty with DHCP IP address
