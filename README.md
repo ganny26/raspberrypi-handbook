@@ -9,3 +9,8 @@ Handbook for raspberry pi 3
 Ubuntu Core on raspberry pi
    - [Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3)
    - Extract to img and write using win32 manager
+
+How to convert raspberry pi ubuntu mate as server
+   - Flash pi with [UbuntuMate](https://ubuntu-mate.org/raspberry-pi/)
+   - To convert as server [openSSH](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)) using following instructions
+   - Open in putty with DHCP IP address
